@@ -1,6 +1,6 @@
 # Hi, I'm Ali Moltajaei Farid 👋
 
-I am a Robotics and Artificial Intelligence Researcher specializing in **Autonomous UAV Swarms**, **Reinforcement Learning (RL)**, and **Multi-Objective Optimization**. My work focuses on building scalable, intelligent control systems for complex aerial and ground vehicle coordination.
+I am an AI and Robotics Research Scientist with a Ph.D. awarded in 2020. I specialize in **Autonomous UAV Swarms**, **Reinforcement Learning (RL)**, and **Multi-Objective Optimization**. My expertise spans bridging advanced algorithmic research with low-level embedded hardware and real-world aerial robotics applications.
 
 🤖 **[Google Scholar Profile](https://scholar.google.com/citations?user=S6pRoJsAAAAJ)** | 💻 **[ResearchGate](https://www.researchgate.net/profile/Ali-Moltajaei-Farid-2)**
 
